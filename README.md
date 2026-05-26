@@ -1,4 +1,4 @@
-#  QuickBite — Restaurant Oredr Management Terminal
+#  QuickBite — Restaurant Order Management Terminal
 > A desktop billing and order management application for restaurant staff, built with **Java + JavaFX**, demonstrating all core Object-Oriented Software Development concepts from Encapsulation and Generics to Multithreading and Serialization.
 
 ![Java](https://img.shields.io/badge/Java-25-orange?style=flat-square&logo=java)
