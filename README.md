@@ -42,13 +42,14 @@ QuickBite is a Restaurant Order Management Terminal, a desktop application used 
 - Generics
 ## OOP Concepts Demonstrated
 This project is built around OOSD principles — not just mentioned, but actively implemented:
-
+```
 UI Layer  →  calls  →  Service Layer  →  calls  →  FileHandler
 CartTab           OrderService                  ObjectOutputStream
 MenuTab           FoodService                   ObjectInputStream
 OrderTab          (business logic)              (file internals hidden)
-
-##Project Structure
+```
+##  Project Structure
+```
 QuickBite/
 │
 ├── src/
@@ -74,7 +75,7 @@ QuickBite/
 └── data/
 ├── menu.dat                  ← Serialized ArrayList<FoodItem>
 └── orders.dat                ← Serialized ArrayList<Order>
-
+```
 ## 🚀 How to Run
 
 **Prerequisites:**
