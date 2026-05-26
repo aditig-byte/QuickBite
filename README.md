@@ -1,5 +1,5 @@
-#  QuickBite — Online Food Ordering System
-> A desktop billing and order management application for restaurant staff, built with **Java + JavaFX** — demonstrating all core Object-Oriented Software Development concepts from Encapsulation and Generics to Multithreading and Serialization.
+#  QuickBite — Restaurant Oredr Management Terminal
+> A desktop billing and order management application for restaurant staff, built with **Java + JavaFX**, demonstrating all core Object-Oriented Software Development concepts from Encapsulation and Generics to Multithreading and Serialization.
 
 ![Java](https://img.shields.io/badge/Java-25-orange?style=flat-square&logo=java)
 ![JavaFX](https://img.shields.io/badge/JavaFX-26-blue?style=flat-square)
@@ -11,7 +11,7 @@
 
 ##  What is QuickBite?
 
-QuickBite is a Restaurant Order Management Terminal — a desktop application used by restaurant staff to take customer orders at the counter, manage billing with 18% GST, and track order status from placement through to delivery confirmation.
+QuickBite is a Restaurant Order Management Terminal, a desktop application used by restaurant staff to take customer orders at the counter, manage billing with 18% GST, and track order status from placement through to delivery confirmation.
 
 
 ---
