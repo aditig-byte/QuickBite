@@ -76,7 +76,7 @@ QuickBite/
 ├── menu.dat                  ← Serialized ArrayList<FoodItem>
 └── orders.dat                ← Serialized ArrayList<Order>
 ```
-## 🚀 How to Run
+##  How to Run
 
 **Prerequisites:**
 - Java 25+ installed
